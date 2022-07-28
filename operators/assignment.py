@@ -5,7 +5,7 @@
 firstname = "Kishan"
 lastname = "Bhawsar"
 
-fullname = firstname + lastname
+fullname = firstname + " " + lastname
 
 print(fullname)
 
@@ -25,4 +25,18 @@ x *= 5
 x -= 5
 
 print(x)
+
+
+
+kishan = "Bhawsar"
+
+name = kishan
+
+print("name")
+
+
+
+
+
+
 
